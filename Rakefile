@@ -1,2 +1,2 @@
-require '../config/environment'
+require '../config/environmen.rb'
 require 'sinatra/activeresord/rake'
